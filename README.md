@@ -4,6 +4,11 @@
 
 
 It is a very slow framework that guarantees to respond to your requests in no more than 3 seconds. We use Express Framework as our core
+
+
+![Logo](https://thumbs.dreamstime.com/b/concept-design-illustration-vector-slug-road-slowly-cartoons-isolated-white-background-cute-slug-road-slowly-cartoons-117918067.jpg)
+
+
 ## Installation
 
 Install my-project with npm
